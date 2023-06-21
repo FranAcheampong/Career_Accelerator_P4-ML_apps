@@ -115,4 +115,4 @@ Oh, one more thing, please do not forget to put a description when you make your
 Acheampong Francis
 Azubi Africa, Trainee
 
-- [Acheampong Francis](https://www.linkedin.com/in/esa%C3%AFe-alain-emmanuel-dina-koupoh-7b974a17a/)
+- [Acheampong Francis](https://medium.com/@acheampongfrancis95)
