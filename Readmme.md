@@ -46,7 +46,7 @@ The Favorita Grocery Sales Forecasting dataset is a fascinating collection of da
         <th>Streamlit Regression Analysis App</th>
     </tr>
     <tr>
-        <td><img src="screenshots/Streamlit.png"/></td>
+        <td><img src="C:\Users\user\Desktop\AZUBI AFRICA\SecondPhase\LP4\Career_Accelerator_P4-ML_apps\screenshots/StreamlitApp.png"/></td>
     </tr>
 </table>
 
