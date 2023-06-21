@@ -37,7 +37,7 @@ The Favorita Grocery Sales Forecasting dataset is a fascinating collection of da
         <th>Gradio Teleco Churn Prediction</th>
     </tr>
     <tr>
-        <td><img src="C:\Users\user\Desktop\AZUBI AFRICA\SecondPhase\LP4\Career_Accelerator_P4-ML_apps\screenshots\GradioInterface.PNG"/></td>
+        <td><img src="C:/Users/user/Desktop\AZUBI AFRICA/SecondPhase/LP4\Career_Accelerator_P4-ML_apps/screenshots/GradioInterface.PNG"/></td>
     </tr>
 </table>
 
@@ -46,7 +46,7 @@ The Favorita Grocery Sales Forecasting dataset is a fascinating collection of da
         <th>Streamlit Regression Analysis App</th>
     </tr>
     <tr>
-        <td><img src="C:\Users\user\Desktop\AZUBI AFRICA\SecondPhase\LP4\Career_Accelerator_P4-ML_apps\screenshots\StreamlitApp.PNG"/></td>
+        <td><img src="C:/Users/user/Desktop/AZUBI AFRICA/SecondPhase/LP4/Career_Accelerator_P4-ML_apps/screenshots/StreamlitApp.PNG"/></td>
     </tr>
 </table>
 
