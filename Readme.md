@@ -86,7 +86,7 @@ The both long command-lines have a same structure, they pipe multiple commands u
         <th>Gradio Teleco Churn Prediction</th>
     </tr>
     <tr>
-        <td><img src="C:/Users/user/Desktop\AZUBI AFRICA/SecondPhase/LP4\Career_Accelerator_P4-ML_apps/screenshots/GradioInterface.PNG"/></td>
+        <td><img src="C:/Users/user/Desktop\AZUBI AFRICA/SecondPhase/LP4\Career_Accelerator_P4-ML_apps/screenshots](https://github.com/FranAcheampong/Career_Accelerator_P4-ML_apps/blob/master/screenshots/img1.png"/></td>
     </tr>
 </table>
 
